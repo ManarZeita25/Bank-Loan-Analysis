@@ -3,30 +3,22 @@
 A comprehensive Business Intelligence (BI) report built using **Power BI** to analyze and monitor loan applications, funding, repayments, and borrower metrics. This project helps banks and financial institutions make data-driven decisions by providing insights into loan portfolio performance and borrower behavior.
 
 ---
-
 ## Repository Structure
-
-
-
+- `Bank_Loan_Report.pbix` – Power BI dashboard file
+- `Terminologies.md` – Definitions of all dataset fields
+- `Problem_Statement.md` – Business problem and reporting requirements
+- `README.md` – Project overview
 ---
-
 ##  Domain Knowledge
-
 The project is based on real-world banking operations. It covers:
-
 - Loan application and funding lifecycle
 - Key borrower information and financial indicators
 - Metrics like DTI (Debt-to-Income Ratio), interest rates, and loan term
 - Differentiation between Good vs. Bad Loans
-
 Details are provided in [Domain_Knowledge.md](Domain_Knowledge.md).
-
 ---
-
 ## Key Features
-
 ### Dashboards Included:
-
 #### 1. Summary Dashboard
 Provides a high-level snapshot using KPIs:
 - Total Loan Applications (including Month-to-Date & MoM changes)
