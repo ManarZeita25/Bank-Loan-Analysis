@@ -55,8 +55,7 @@ Provides granular data in table format for all loan records:
 *Details Dashboard Screenshot:*  
 ![Details Dashboard](https://github.com/ManarZeita25/Bank-Loan-Analysis/blob/main/dashboards/assets/details.png)
 ---
-##  PDF Version
- [Click here to view/download the full report as PDF](https://github.com/ManarZeita25/Bank-Loan-Analysis/blob/main/dashboards/exported/bank%20loans.pdf)
+##  PDF Version [Click here to view/download the full report as PDF](https://github.com/ManarZeita25/Bank-Loan-Analysis/blob/main/dashboards/exported/bank%20loans.pdf)
  
 ---
 ## Documentation
