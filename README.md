@@ -32,7 +32,8 @@ Provides a high-level snapshot using KPIs:
 
 **Loan Status Grid**:
 - Summary metrics by loan status category (e.g., Fully Paid, Current, Charged Off)
-
+*Summary Dashboard Screenshot:*  
+![Summary Dashboard](https://github.com/ManarZeita25/Bank-Loan-Analysis/blob/main/dashboards/assets/summary.png)
 ---
 
 #### 2. Overview Dashboard
@@ -43,46 +44,28 @@ Interactive visualizations for deeper analysis:
 - Employment Length Analysis (Bar Chart)
 - Loan Purpose Breakdown (Bar Chart)
 - Home Ownership Impact (Tree Map)
-
 Each visual supports drill-through functionality and tooltips.
-
+*Overview Dashboard Screenshot:*  
+![Overview Dashboard](https://github.com/ManarZeita25/Bank-Loan-Analysis/blob/main/dashboards/assets/overview.png)
 ---
-
 #### 3. Details Dashboard
 Provides granular data in table format for all loan records:
 - Loan ID, Amount, Interest Rate, Income, DTI, etc.
 - Useful for audits and operational tracking
-
+*Details Dashboard Screenshot:*  
+![Details Dashboard](https://github.com/ManarZeita25/Bank-Loan-Analysis/blob/main/dashboards/assets/details.png)
 ---
-
-## 📚 Documentation
-
+##  PDF Version
+ [Click here to view/download the full report as PDF](https://github.com/ManarZeita25/Bank-Loan-Analysis/blob/main/dashboards/exported/bank%20loans.pdf)
+ 
+---
+## Documentation
 - [Terminologies.md](Terminologies.md): Explanation of all dataset fields
 - [Problem_Statement.md](Problem_Statement.md): Dashboard and visual requirements
-
 ---
-
 ##  Tools & Technologies
-
 - Power BI Desktop
 - Power Query (M Language)
 - DAX (Data Analysis Expressions)
 - Excel/CSV as data source
-
 ---
-
-##  Exporting the Report
-
-To export the report to PDF:
-
-- **Power BI Desktop**:  
-  `File > Export > Export to PDF`
-
-- **Power BI Service**:  
-  Open report → `dashboards/exported`
-
-📁 Exported files are saved in your browser’s default download folder:
-- Example: `C:\Users\<YourName>\Downloads`
-
-
-
